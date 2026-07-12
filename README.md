@@ -20,5 +20,5 @@ The repository covers a wide range of core Python concepts, including:
 * Practice problems and coding exercises
 
 
-As I continue learning,   I regularly update this repository with new concepts, solved problems, and mini projects to improve my problem-solving skills and gain a deeper understanding of Python programming.
+As I continue learning, I regularly update this repository with new concepts, solved problems, and mini projects to improve my problem-solving skills and gain a deeper understanding of Python programming.
 
