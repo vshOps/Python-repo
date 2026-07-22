@@ -11,7 +11,7 @@ The repository covers a wide range of core Python concepts, including:
 * Conditional statements (`if`, `elif`, `else`)
 * Loops (`for` and `while`)
 * Functions
-* Lists, tuples, sets, and dictionaries
+* Lists, tuples, sets,  and dictionaries
 * Strings and string manipulation
 * File handling
 * Exception handling
