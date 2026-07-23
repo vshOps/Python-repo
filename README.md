@@ -7,7 +7,7 @@ This repository documents my Python learning journey, where I practice and stren
 The repository covers a wide range of core Python concepts, including:
 
 * Variables and data types
-* Operators and expressions
+* Operators and expressio  ns
 * Conditional statements (`if`, `elif`, `else`)
 * Loops (`for` and `while`)
 * Functions
