@@ -12,7 +12,7 @@ The repository covers a wide range of  core Python concepts,including:
 * Loops (`for` and `while`)
 * Functions
 * Lists, tuples, sets, and dictionaries
-* Strings and string manipulation
+* Strings and string manipulation 
 * File handling
 * Exception handling
 * Object-Oriented Programming (OOP) basics
