@@ -8,7 +8,7 @@ The repository covers a wide range of  core Python concepts,including:
    
 * Variables and data types 
 * Operators and expressions   
-* Conditional statements (`if`, `elif`, `else`)
+* Conditional statements (`if`, `elif`, `else`)  
 * Loops (`for` and `while`)
 * Functions
 * Lists, tuples, sets, and dictionaries
